@@ -1,7 +1,7 @@
 ### Hi there! I'm Jefferson Valim 👋
 
 - 🔭 I'm currently working with smart attendant systems
-- 🌱 I’m currently learning java and spring boot
+- 🌱 I’m currently learning java, spring boot and react
 
 
 <div align="center">
